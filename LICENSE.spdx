@@ -1,0 +1,6 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+PackageName: rogitfs
+PackageOriginator: aw32
+PackageHomePage: https://github.com/aw32/rogitfs
+PackageLicenseDeclared: GPL-3.0-only
